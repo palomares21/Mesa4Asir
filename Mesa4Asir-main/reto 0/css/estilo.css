@@ -1,3 +1,9 @@
+h1 {
+    background-color: #b80000;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+  }
 div.gallery {
     margin: 6px;
     float: left;
