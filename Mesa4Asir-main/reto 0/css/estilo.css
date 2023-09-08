@@ -1,9 +1,16 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+
 h1 {
-    background-color: #b80000;
+    background-color: #ffffff;
     text-align: center;
     text-transform: uppercase;
     padding-bottom: 5px;
   }
+p{
+     color: rgb(255, 255, 255);
+}
 div.gallery {
     margin: 6px;
     float: left;
@@ -19,7 +26,9 @@ div.gallery {
     border-radius: 50%;
     height: auto;
   }
-  
+div.gallery p {
+   color: rgb(255, 255, 255);
+  } 
   div.desc {
     padding: 20px;
     text-align: center;
